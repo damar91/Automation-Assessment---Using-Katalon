@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>error_Massage</name>
+   <tag></tag>
+   <elementGuidId>6e875618-ad7c-4950-9632-612655db248e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.svg-inline--fa</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//h3[.='Epic sadface: Username and password do not match any user in this service']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>.svg-inline--fa</value>
+      <webElementGuid>88af1459-75d8-43db-9a07-07f17ac3ec0f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
